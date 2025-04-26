@@ -10,4 +10,6 @@ public class EmployeeService {
 
     private  final EmployeeRepository employeeRepository;
 
+    void deleteEmployee
+
 }
