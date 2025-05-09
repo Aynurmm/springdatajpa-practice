@@ -1,7 +1,6 @@
 package az.academy.turing.springdatajpa.domain.service;
 
 import az.academy.turing.springdatajpa.domain.dto.response.EmployeeResponse;
-import az.academy.turing.springdatajpa.domain.model.Employee;
 import az.academy.turing.springdatajpa.domain.repository.EmployeeRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package az.academy.turing.springdatajpa.domain.model;
+package az.academy.turing.springdatajpa.domain.entity;
 
 import az.academy.turing.springdatajpa.domain.enums.EmployeeStatus;
 import jakarta.persistence.*;

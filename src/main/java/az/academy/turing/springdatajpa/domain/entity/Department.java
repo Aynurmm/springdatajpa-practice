@@ -1,4 +1,4 @@
-package az.academy.turing.springdatajpa.domain.model;
+package az.academy.turing.springdatajpa.domain.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

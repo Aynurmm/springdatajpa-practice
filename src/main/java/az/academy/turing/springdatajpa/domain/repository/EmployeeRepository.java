@@ -1,6 +1,6 @@
 package az.academy.turing.springdatajpa.domain.repository;
 
-import az.academy.turing.springdatajpa.domain.model.Employee;
+import az.academy.turing.springdatajpa.domain.entity.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
